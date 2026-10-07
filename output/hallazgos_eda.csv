@@ -1,0 +1,22 @@
+﻿Métrica,Valor
+Grammys: filas sin artista descartadas,1.840 (38.3%)
+Grammys: artistas únicos,1.646
+Spotify: artistas únicos,29.794 (de 114.000 canciones)
+Tabla integrada: artistas,30.907
+Artistas en ambas fuentes,533
+Cobertura Grammy → Spotify,32.4%
+Década con más premios por año,2010s (121/año)
+Top 10 Grammy sin presencia en Spotify,3 de 10
+Artista más premiado,U2 (18)
+Gini del reconocimiento Grammy,0.36 (moderada)
+Premios del 10% más premiado,34%
+Artistas con un solo registro Grammy,70%
+Popularidad mediana (artistas Spotify),36.0
+Artistas Spotify con 1 sola canción,50%
+Popularidad: tamaño del efecto (r),+0.02 (p = 5.3e-01)
+Diferencia de medianas de popularidad,-1.0 puntos
+Mayor diferencia de audio,Energía (d = -0.26)
+Época del primer Grammy vs. popularidad (ρ),+0.06
+Género con mayor tasa de Grammy,rock (23.0% vs. 1.8% global)
+Correlación energía–acústica,-0.83
+Centroide acústica (Con / Sin Grammy),0.37 / 0.33

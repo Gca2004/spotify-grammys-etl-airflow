@@ -1,0 +1,14 @@
+# Airflow: registros y copias intermedias de cada ejecucion
+logs/
+data/staging/
+
+# Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
